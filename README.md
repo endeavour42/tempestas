@@ -1,6 +1,6 @@
 ## Tempestas
 
-## In ancient Roman religion, Tempestas (Latin tempestas: "season, weather; bad weather; storm, tempest") is a goddess of storms or sudden weather.
+### In ancient Roman religion, Tempestas (Latin tempestas: "season, weather; bad weather; storm, tempest") is a goddess of storms or sudden weather.
 
 ## A simple weather app.
 
